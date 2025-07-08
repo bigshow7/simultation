@@ -1,0 +1,35 @@
+{
+  "points": 126,
+  "tasks": {
+    "T1": {
+      "chapters_completed": 9
+    },
+    "T2": {
+      "chapters_completed": 6
+    },
+    "T3": {
+      "chapters_completed": 3
+    },
+    "T4": {
+      "chapters_completed": 3
+    },
+    "T5": {
+      "chapters_completed": 1
+    },
+    "T6": {
+      "chapters_completed": 7
+    },
+    "T7": {
+      "chapters_completed": 0
+    },
+    "T8": {
+      "chapters_completed": 0
+    },
+    "T9": {
+      "chapters_completed": 0
+    },
+    "T10": {
+      "chapters_completed": 1
+    }
+  }
+}
