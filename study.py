@@ -15,7 +15,7 @@ TASKS = {
     "T7": {"name": "유튜브 연구 동향/공학 영상 시청", "difficulty": 1, "points_per_chapter": 5, "chapters_completed": 0},
     "T8": {"name": "ROS 기초 공부", "difficulty": 2, "points_per_chapter": 10, "chapters_completed": 0},
     "T9": {"name": "만화로 배우는 한 권 완독", "difficulty": 3.5, "points_per_chapter": 60, "chapters_completed": 0},
-    "T10": {"name": "스스로 공부", "difficulty": 2, "points_per_chapter": 35, "chapters_completed": 0}
+    "T10": {"name": "스스로 공부", "difficulty": 2, "points_per_chapter": 120, "chapters_completed": 0}
 }
 
 # 사전 정의된 보상 목록 (공부 유형)
@@ -28,8 +28,8 @@ REWARDS = {
     "R6": {"description": "PC방 2시간 이용", "cost": 25},
     "R7": {"description": "영화관에서 영화 한 편 보기", "cost": 30},
     "R8": {"description": "일러스트 감상 (30분)", "cost": 5},
-    "R9": {"description": "AI 챗봇 게임 (30분)", "cost": 10},
-    "R10": {"description": "코스 요리 레스토랑", "cost": 180}
+    "R9": {"description": "맛집탐방(3.0내외)", "cost": 80},
+    "R10": {"description": "코스 요리 레스토랑(7.0내외)", "cost": 180}
 }
 
 class Simulation:
