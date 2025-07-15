@@ -14,7 +14,7 @@ TASKS = {
     "T6": {"name": "동역학 복습 및 노트정리", "difficulty": 3.5, "points_per_chapter": 18, "chapters_completed": 0},
     "T7": {"name": "유튜브 연구 동향/공학 영상 시청", "difficulty": 1, "points_per_chapter": 5, "chapters_completed": 0},
     "T8": {"name": "ROS 기초 공부", "difficulty": 2, "points_per_chapter": 10, "chapters_completed": 0},
-    "T9": {"name": "만화로 배우는 한 권 완독", "difficulty": 3.5, "points_per_chapter": 60, "chapters_completed": 0},
+    "T9": {"name": "만화로 배우는 한 권 완독", "difficulty": 3.5, "points_per_chapter": 30, "chapters_completed": 0},
     "T10": {"name": "스스로 공부", "difficulty": 2, "points_per_chapter": 120, "chapters_completed": 0}
 }
 
