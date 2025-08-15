@@ -4,6 +4,16 @@ import os
 # 파일 이름 설정
 STATE_FILE = "simulation_state.json"
 
+'''
+팀세미나:2시간당 5p
+보행로봇 자율주행 실험:1시간당 6p
+코드분석:1시간당 6p
+코드분석 내용 작성:8p
+강의:1
+실습:2
+정리, 블로그 초안작성:2
+블로그 게시:4p
+'''
 # 사전 정의된 업무 목록 (공부 유형)
 TASKS = {
     "T1": {"name": "Python 기초 공부", "difficulty": 2, "points_per_chapter": 10, "chapters_completed": 0},
