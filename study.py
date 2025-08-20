@@ -16,16 +16,15 @@ STATE_FILE = "simulation_state.json"
 '''
 # 사전 정의된 업무 목록 (공부 유형)
 TASKS = {
-    "T1": {"name": "Python 기초 공부", "difficulty": 2, "points_per_chapter": 10, "chapters_completed": 0},
-    "T2": {"name": "열역학 복습 및 과제", "difficulty": 2, "points_per_chapter": 10, "chapters_completed": 0},
-    "T3": {"name": "공업수학 복습 및 문제풀이", "difficulty": 2, "points_per_chapter": 10, "chapters_completed": 0},
-    "T4": {"name": "기계설계 복습", "difficulty": 3, "points_per_chapter": 15, "chapters_completed": 0},
-    "T5": {"name": "열전달 복습 및 노트정리", "difficulty": 3, "points_per_chapter": 15, "chapters_completed": 0},
-    "T6": {"name": "동역학 복습 및 노트정리", "difficulty": 3.5, "points_per_chapter": 18, "chapters_completed": 0},
-    "T7": {"name": "유튜브 연구 동향/공학 영상 시청", "difficulty": 1, "points_per_chapter": 5, "chapters_completed": 0},
-    "T8": {"name": "ROS 기초 공부", "difficulty": 2, "points_per_chapter": 10, "chapters_completed": 0},
-    "T9": {"name": "만화로 배우는 한 권 완독", "difficulty": 3.5, "points_per_chapter": 30, "chapters_completed": 0},
-    "T10": {"name": "스스로 공부", "difficulty": 2, "points_per_chapter": 120, "chapters_completed": 0}
+    "T1": {"name": "팀세미나(2H)", "difficulty": 2, "points_per_chapter": 5, "chapters_completed": 0},
+    "T2": {"name": "보행로봇 자율주행 실험(1H)", "difficulty": 2, "points_per_chapter": 6, "chapters_completed": 0},
+    "T3": {"name": "코드분석(1H)", "difficulty": 2, "points_per_chapter": 6, "chapters_completed": 0},
+    "T4": {"name": "코드분석 내용 작성", "difficulty": 3, "points_per_chapter": 8, "chapters_completed": 0},
+    "T5": {"name": "ROS2 강의 1개 완강", "difficulty": 3, "points_per_chapter": 1, "chapters_completed": 0},
+    "T6": {"name": "강의 내용 실습", "difficulty": 3.5, "points_per_chapter": 2, "chapters_completed": 0},
+    "T7": {"name": "강의 내용 정리 및 블로그 초안작성", "difficulty": 2, "points_per_chapter": 5, "chapters_completed": 0},
+    "T8": {"name": "블로그 게시", "difficulty": 2, "points_per_chapter": 4, "chapters_completed": 0},
+    "T9": {"name": "만화로 배우는 한 권 완독", "difficulty": 3.5, "points_per_chapter": 30, "chapters_completed": 0}
 }
 
 # 사전 정의된 보상 목록 (공부 유형)
